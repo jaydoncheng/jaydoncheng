@@ -1,4 +1,5 @@
-### Hi there 👋
+![bird hitting camera feed lens](https://cdn.discordapp.com/attachments/985658168464015410/1203792847191674982/birb-ezgif.com-resize.gif)
+
 
 <!--
 **jaydoncheng/jaydoncheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
